@@ -3,7 +3,7 @@ TEMP
 
 EDITED
 
-Fron: 
+Front: 
     # Front-end/src/App.tsx
     # Front-end/src/components/Chatrooms/ChatRoomBox.tsx
     
